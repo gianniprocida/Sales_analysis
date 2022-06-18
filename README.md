@@ -15,8 +15,8 @@
   </ul>
     <h2> Other Files</h2>
      <ul>
-     <li> aboutyou.db </li>
-      <li> data.parquet </li>
+     <li> aboutyou.db ( output from processingData.py)  </li>
+      <li> data.parquet ( starting data) </li>
      </ul>
      <h3>Description</h3>
     <p>  Data is collected and translated set into valuable, usable information ( graph, tables) </p>
